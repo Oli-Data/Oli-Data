@@ -8,7 +8,7 @@ My work bridges **practical experience** with a drive to build systems that push
 ## 🚀 What I’m About
 - Exploring how **reasoning, structure, and emergent behavior** can shape the future of AI (see [Project Gestalt](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Project%20Gestalt))  
 - Applying machine learning to **real-world problems** like fraud detection, education, and marketing analytics  
-- Always pushing through challenges — growth comes from working on the hard stuff  
+- Always pushing through challenges, growth comes from working on the hard stuff  
 
 ## 🛠️ Tech I Work With
 - **Languages:** Python, R, C++  
