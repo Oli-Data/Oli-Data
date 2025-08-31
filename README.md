@@ -21,7 +21,7 @@ I don’t just work with data, I **build with purpose**, even if it means creati
 - Building reasoning-focused AI systems (Graph Neural Networks, symbolic logic integrations)  
 
 ## ✨ Outside the Code
-I’m driven by curiosity, persistence, and the belief that tech should **bring people back to their humanity** — not replace it. Whether it’s experimenting with AI projects, learning new frameworks, or reflecting on bigger ideas, I’m always chasing growth.  
+I’m driven by curiosity, persistence, and the belief that tech should **bring people back to their humanity**, not replace it. Whether it’s experimenting with AI projects, learning new frameworks, or reflecting on bigger ideas, I’m always chasing growth.  
 
 ---
 
