@@ -13,9 +13,7 @@ I don’t just work with data, I **build with purpose**, even if it means creati
 - **ML/AI:** scikit-learn, TensorFlow, Keras, PyTorch (exploring), Random Forests, ANN  
 - **Data Tools:** pandas, NumPy, GeoPandas, dplyr, ggplot2  
 - **Visualization:** matplotlib, seaborn, ggplot2  
-- **Workflow:** Jupyter, R Markdown, Google Cloud, GitHub
-
-## 💻 Tech Stack  
+- **Workflow:** Jupyter, R Markdown, Google Cloud, GitHub  
 
 <p align="Center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
