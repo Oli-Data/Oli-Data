@@ -6,9 +6,9 @@ I’m a **Data Scientist** with a hands-on background in IT and repair, now focu
 My work bridges **practical experience** with a drive to build systems that push beyond surface-level pattern recognition.   
 
 ## 🚀 What I’m About
-- Exploring how **reasoning, structure, and emergent behavior** can shape the future of AI (see [Project Gestalt](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Project%20Gestalt))  
-- Applying machine learning to **real-world problems** like fraud detection, education, and marketing analytics  
-- Always pushing through challenges, growth comes from working on the hard stuff  
+- Investigating how **reasoning, structure, and emergent behavior** can shape the next generation of AI  
+- Applying machine learning to **practical challenges** like fraud detection, education, and marketing analytics  
+- Embracing challenges as opportunities — growth comes from working on the hard problems  
 
 ## 🛠️ Tech I Work With
 - **Languages:** Python, R, C++  
