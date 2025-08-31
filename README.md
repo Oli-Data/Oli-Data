@@ -2,8 +2,8 @@
 
 # Hey, I’m Christian 👋  
 
-I’m a **Data Scientist** with a hands-on background in IT and repair, now focused on building **AI and machine learning systems that actually make a difference**.  
-I don’t just work with data, I **build with purpose**, even if it means creating the path myself.  
+I’m a **Data Scientist** with a hands-on background in IT and repair, now focused on applying **AI and machine learning** to solve real-world problems.  
+My work bridges **practical experience** with a drive to build systems that push beyond surface-level pattern recognition.   
 
 ## 🚀 What I’m About
 - Exploring how **reasoning, structure, and emergent behavior** can shape the future of AI (see [Project Gestalt](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Project%20Gestalt))  
