@@ -15,7 +15,7 @@ I don’t just work with data, I **build with purpose**, even if it means creati
 - **Visualization:** matplotlib, seaborn, ggplot2  
 - **Workflow:** Jupyter, R Markdown, Google Cloud, GitHub
 
-## 🛠️ Tech Stack  
+## 💻 Tech Stack  
 
 <p align="Center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
