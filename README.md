@@ -1,3 +1,5 @@
+🎯 Data Scientist | AI & Machine Learning | Purpose-Driven Builder
+
 # Hey, I’m Christian 👋  
 
 I’m a **Data Scientist** with a hands-on background in IT and repair, now focused on building **AI and machine learning systems that actually make a difference**.  
