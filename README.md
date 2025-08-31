@@ -27,4 +27,4 @@ I’m driven by curiosity, persistence, and the belief that tech should **bring 
 
 📫 **Let’s connect**:  
 - LinkedIn: [linkedin.com/in/christian-olivares-rodriguez](#)  
-- Email: [your-email@example.com](#)  
+- Email: [christianolivares@protonmail.com](#)  
