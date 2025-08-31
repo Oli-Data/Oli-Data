@@ -87,3 +87,5 @@ I’m driven by curiosity, persistence, and the belief that tech should **bring 
 📫 **Let’s connect**:  
 - LinkedIn: [linkedin.com/in/christian-olivares-rodriguez](https://www.linkedin.com/in/christian-olivares-rodriguez/)  
 - Email: [christianolivares@protonmail.com](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oli-data)](https://github.com/anuraghazra/github-readme-stats)
