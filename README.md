@@ -8,7 +8,7 @@ My work bridges **practical experience** with a drive to build systems that push
 ## 🚀 What I’m About
 - Investigating how **reasoning, structure, and emergent behavior** can shape the next generation of AI  
 - Applying machine learning to **practical challenges** like fraud detection, education, and marketing analytics  
-- Embracing challenges as opportunities — growth comes from working on the hard problems  
+- Embracing challenges as opportunities, growth comes from working on the hard problems  
 
 ## 🛠️ Tech I Work With
 - **Languages:** Python, R, C++  
