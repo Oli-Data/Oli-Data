@@ -44,7 +44,34 @@ My work bridges **practical experience** with a drive to build systems that push
 ## 🌱 What I’m Learning
 - Advanced ML techniques (regularization, ensembles, neural architectures)  
 - Cloud-based data engineering (Google Cloud, PySpark, Dataproc)  
-- Building reasoning-focused AI systems (Graph Neural Networks, symbolic logic integrations)  
+- Building reasoning-focused AI systems (Graph Neural Networks, symbolic logic integrations)
+
+## 📂 Projects  
+
+### ☁️ Google Cloud Fraud Detection  
+Built scalable ML models (Logistic Regression, Random Forest) on **Google Cloud Platform** using **PySpark & Dataproc** to detect fraudulent transactions.  
+🔗 [View Project](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Google%20Cloud%20Project)  
+
+---
+
+### 📊 Chicago Public Schools Analysis  
+Explored **attendance, environment scores, and student achievement** across Chicago Public Schools (2011–2012).  
+Found that **student attendance** correlated much more strongly with performance than environment scores.  
+🔗 [View Project](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Chicago%20Schools%20Project)  
+
+---
+
+### 🏦 Bank Marketing ML  
+Applied **classification models** (Logistic Regression, Random Forest, KNN, ANN) to predict whether clients subscribed to a term deposit.  
+ANN achieved the **highest accuracy and recall**, while Random Forest performed best on precision-recall balance.  
+🔗 [View Project](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Bank%20Marketing%20ML)  
+
+---
+
+### 🧠 Project Gestalt *(Upcoming)*  
+An **early-stage research project** exploring reasoning, structure, and emergent behavior in AI.  
+Focus on combining **symbolic + neural approaches** to experiment with how intelligence emerges from simple systems.  
+🔗 [View Project](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Project%20Gestalt)  
 
 ## ✨ Outside the Code
 I’m driven by curiosity, persistence, and the belief that tech should **bring people back to their humanity**, not replace it. Whether it’s experimenting with AI projects, learning new frameworks, or reflecting on bigger ideas, I’m always chasing growth.  
