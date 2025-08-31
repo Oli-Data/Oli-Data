@@ -1,4 +1,4 @@
-🎯 Data Scientist | AI & Machine Learning | Purpose-Driven Builder
+🌌 Exploring AI, reasoning, and emergent systems to build tech with purpose.
 
 # Hey, I’m Christian 👋  
 
