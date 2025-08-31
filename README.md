@@ -32,7 +32,10 @@ I don’t just work with data, I **build with purpose**, even if it means creati
   </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
 </p> 
 
 ## 🌱 What I’m Learning
