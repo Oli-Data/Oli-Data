@@ -50,7 +50,7 @@ My work bridges **practical experience** with a drive to build systems that push
 
 ### ☁️ Google Cloud Fraud Detection  
 Built scalable ML models (Logistic Regression, Random Forest) on **Google Cloud Platform** using **PySpark & Dataproc** to detect fraudulent transactions.  
-🔗 [View Project](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Google%20Cloud%20Project)  
+🔗 [View Project](https://github.com/Oli-Data/Data-Engineering-Infrastructure-Projects/tree/main/Google%20Cloud%20Project)  
 
 ---
 
