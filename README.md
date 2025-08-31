@@ -4,7 +4,7 @@ I’m a **Data Scientist** with a hands-on background in IT and repair, now focu
 I don’t just work with data, I **build with purpose**, even if it means creating the path myself.  
 
 ## 🚀 What I’m About
-- Exploring how **reasoning, structure, and emergent behavior** can shape the future of AI (see [Project Gestalt]((https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Project%20Gestalt))  
+- Exploring how **reasoning, structure, and emergent behavior** can shape the future of AI (see [Project Gestalt](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Project%20Gestalt)  
 - Applying machine learning to **real-world problems** like fraud detection, education, and marketing analytics  
 - Always pushing through challenges — growth comes from working on the hard stuff  
 
