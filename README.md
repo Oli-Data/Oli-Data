@@ -56,14 +56,17 @@ My work bridges **practical experience** with a drive to build systems that push
 
 ---
 
-### Project currently in development
----
-### 🫆 Chicago Crime Project
-Currently in the data exploration portion
-The project is a two phase project with the being the data analysis and the second being predictions done in Pytorch
-🔗[View Project](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Chicago%20Crime%20Project)
+### 🚧 Currently in Development  
 
-### Notable Projects
+#### 🫆 Chicago Crime Project  
+- **Phase 1**: Data exploration & analysis (in progress)  
+- **Phase 2**: Predictive modeling using **PyTorch** (upcoming)  
+- 📌 Status: Actively working on Phase 1  
+- 🔗 [View Project](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Chicago%20Crime%20Project)
+
+---
+
+### 🌟 Notable Projects
 
 ---
 
