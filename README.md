@@ -54,6 +54,19 @@ My work bridges **practical experience** with a drive to build systems that push
 
 ## 📂 Projects  
 
+---
+
+### Project currently in development
+---
+### 🫆 Chicago Crime Project
+Currently in the data exploration portion
+The project is a two phase project with the being the data analysis and the second being predictions done in Pytorch
+🔗[View Project](https://github.com/Oli-Data/Data-Science-Machine-Learning-Projects/tree/main/Chicago%20Crime%20Project)
+
+### Notable Projects
+
+---
+
 ### ☁️ Google Cloud Fraud Detection  
 Built scalable ML models (Logistic Regression, Random Forest) on **Google Cloud Platform** using **PySpark & Dataproc** to detect fraudulent transactions.  
 🔗 [View Project](https://github.com/Oli-Data/Data-Engineering-Infrastructure-Projects/tree/main/Google%20Cloud%20Project)  
