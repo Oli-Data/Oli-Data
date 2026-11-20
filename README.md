@@ -1,6 +1,6 @@
 # Hi, I'm Christian 👋
 
-I build AI applications and applied machine learning projects, with a focus on useful tools and questions that affect people's lives. I have a **B.S. in Data Science**, am pursuing an **M.S. in Artificial Intelligence at Arizona State University**, and bring a hands-on background in IT troubleshooting.
+I build AI applications and applied machine learning projects, with a focus on useful tools and questions that affect people's lives. I have a **B.S. in Data Science** from Arizona State University and bring a hands-on background in IT troubleshooting.
 
 **Open to opportunities in applied ML, AI application development, and Python engineering.**
 
@@ -24,7 +24,7 @@ A deployed web application that turns uploaded PDF, DOCX, and EPUB chapters into
 
 Analyzed Ookla mobile speed-test data from 2020–2025 across the Central Valley, Bay Area, and Southern California. Joined geographic data with Census demographics to examine differences in broadband performance.
 
-In the Central Valley analysis, tiles classified as rural averaged **65.8 Mbps**, compared with **193.3 Mbps** for urban tiles. The classification uses Census tract area as a density proxy; this is an observed speed difference, not a causal estimate.
+In the Central Valley sample for 2022–2024, median mobile download speeds were 119 Mbps in rural areas and 186 Mbps in urban areas. This is an observed difference, not a causal estimate.
 
 **Python · GeoPandas · Census ACS · AWS S3 · Matplotlib**
 
